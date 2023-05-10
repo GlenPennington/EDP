@@ -162,6 +162,7 @@ hr {
 }
 
 footer {
+  font-size:11px;
   width:270px;
   float:left;
   position:fixed;
@@ -183,7 +184,7 @@ footer {
   }
 
   header {
-    padding-right:150px;
+    padding-right:320px;
   }
 
   section {
