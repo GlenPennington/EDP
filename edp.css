@@ -132,7 +132,6 @@ kbd {
 header {
   width:270px;
   float:left;
-  position:fixed;
 }
 
 strong {
@@ -140,12 +139,10 @@ strong {
   font-weight:700;
 }
 
-
 .section {
   width:800px;
   float:right;
   padding-bottom:50px;
-  position:fixed;
 }
 
 small {
